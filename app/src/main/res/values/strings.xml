@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">assessment2_mobpro</string>
+        <string name="app_name">Cook Mate</string>
+        <string name="list_kosong">Belum ada data</string>
+        <string name="x_diklik">%1$s diklik!</string>
+        <string name="tambah_resep">Tambah resep makanan</string>
+        <string name="judul">Nama Masakan</string>
+        <string name="isi_resep">Isi Resep</string>
+        <string name="kembali">Kembali</string>
+        <string name="simpan">Simpan</string>
+        <string name="edit_resep">Ubah resep</string>
+        <string name="invalid">Nama masakan dan resep tidak boleh kosong.</string>
+        <string name="lainnya">Opsi lainnya</string>
+        <string name="hapus">Hapus resep masakan</string>
+        <string name="pesan_hapus">Hapus resep masakan ini?</string>
+        <string name="tombol_hapus">Hapus</string>
+        <string name="tombol_batal">Batal</string>
 </resources>
