@@ -50,6 +50,7 @@ import com.ghina0096.assessment2_mobpro.R
 import com.ghina0096.assessment2_mobpro.model.Resep
 import com.ghina0096.assessment2_mobpro.navigation.Screen
 import com.ghina0096.assessment2_mobpro.ui.theme.Assessment2_mobproTheme
+import com.ghina0096.assessment2_mobpro.util.SettingsDataStore
 import com.ghina0096.assessment2_mobpro.util.ViewModelFactory
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
